@@ -1,0 +1,9 @@
+Asset ID,Asset Name,Asset Type,Business Purpose,Information Classification,Asset Owner
+AST-001,Customer Database,Data,Stores customer records,Confidential,Customer Operations Manager
+AST-002,Microsoft 365,Cloud Service,Email and collaboration,Internal,IT Manager
+AST-003,Employee Laptops,Hardware,Employee work and system access,Internal,IT Manager
+AST-004,HR Records,Data,Employee and payroll information,Confidential,HR Manager
+AST-005,Generative AI Tools,Cloud Service,AI assisted workplace tasks,To Be Assessed,IT Manager
+AST-006,Company Website,Web Application,Customer enquiries and business information,Public,Marketing Manager
+AST-007,Backup Storage,Data Storage,Business data recovery,Confidential,IT Manager
+AST-008,Identity and Access System,Identity Service,User authentication and access management,Confidential,IT Manager

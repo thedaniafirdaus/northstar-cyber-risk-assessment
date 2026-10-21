@@ -1,0 +1,14 @@
+# Local backup files
+risk-register-backup.csv
+*~
+*.bak
+
+# macOS files
+.DS_Store
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/

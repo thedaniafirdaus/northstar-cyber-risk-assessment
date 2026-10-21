@@ -1,0 +1,11 @@
+Risk ID,Risk,Relevant NIST CSF 2.0 Categories,ISO 27001 Control Theme,Cyber Essentials Relevance,Recommended Control,Evidence Needed,Assessment Status
+RISK-001,Customer database compromise,PR.AA / PR.DS,Access control and information protection,User access control,Phishing-resistant MFA and least privilege,MFA coverage and database permissions,Not verified
+RISK-002,Laptop theft,PR.DS / PR.PS,Endpoint security and cryptography,Secure configuration - partial relevance,Full-disk encryption and device management,Encryption compliance report and device inventory,Partially evidenced
+RISK-003,Microsoft 365 account compromise,PR.AA / DE.CM,Identity security and monitoring,User access control,Phishing-resistant MFA and sign-in monitoring,Identity policies and sign-in reports,Not verified
+RISK-004,Ransomware,PR.PS / DE.CM,Malware protection and vulnerability management,Malware protection / Security update management,Endpoint protection and patch management,Endpoint protection and patch compliance reports,Not verified
+RISK-005,Employee data exposure,PR.AA / PR.DS,Access control and information privacy,User access control,Role-based access and periodic permission reviews,HR access review records,Not verified
+RISK-006,Shadow AI data exposure,GV.PO / PR.DS,Information security policies and data protection,Outside core Cyber Essentials scope,Approved AI policy and data handling restrictions,AI tool inventory and policy approval records,Not verified
+RISK-007,Website compromise,PR.PS / ID.RA,Vulnerability management and secure configuration,Security update management / Secure configuration,Security patching and vulnerability assessment,Patch records and authorised scan reports,Not verified
+RISK-008,Backup failure,PR.DS / RC.RP,Backup and business continuity,Outside core Cyber Essentials scope,Protected backups and tested restoration,Restore test records and backup reports,Not verified
+RISK-009,Excessive access privileges,PR.AA / GV.RR,Access rights and privileged access management,User access control,Least privilege and privileged account reviews,Account inventory and access approvals,Not verified
+RISK-010,Business email compromise,PR.AA / PR.AT,Authentication and security awareness,User access control - partial relevance,Phishing-resistant MFA and payment verification procedures,Email security settings and payment control records,Not verified
